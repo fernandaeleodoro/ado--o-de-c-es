@@ -106,11 +106,11 @@ textarea {
     font-size: 12px;
 }
 url(assets/Captura de tela 2026-04-08 092049.png)
-    width: 120px;
+    width: 70px;
     display: block;
     margin: 0 auto 10px;
     border-radius: 50%;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
     transition: 0.3s;
 }
 
